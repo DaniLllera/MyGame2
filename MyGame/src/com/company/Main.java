@@ -10,7 +10,6 @@ public class Main {
             System.out.println("QUE JUEGO QUIERES JUGAR?");
             System.out.println("(1-SIMON) " + " (2-PIEDRA-PAPEL-TIJERA)" + " (0- SALIR)" );
 
-
             int opcion = scanner.nextInt();
 
             if (opcion == 1) {
